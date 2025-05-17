@@ -1,0 +1,43 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        >
+
+        <ImageView
+            android:layout_width="500dp"
+            android:layout_height="300dp"
+            android:padding="15dp"
+            android:layout_gravity="center"
+            android:src="@drawable/image3"
+            />
+        <TextView
+            android:textSize="30sp"
+            android:textColor="#000000"
+            android:padding="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textStyle="bold"
+            android:text="BURGER Pak Hadi"/>
+        <TextView
+            android:textSize="20sp"
+            android:textColor="#000000"
+            android:padding="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Nikmati perpaduan sempurna dari mie kenyal khas MIEWON yang disajikan dengan topping wonton gurih, ayam suwir yang lembut dan berbumbu, kripik renyah, serta chili oil spesial racikan kami yang bisa kamu pilih dalam dua varian rasa: manis menggoda atau asin gurih."
+            />
+        <TextView
+            android:textSize="24sp"
+            android:textColor="#000000"
+            android:padding="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Nikmati perpaduan sempurna dari mie kenyal khas MIEWON yang disajikan dengan topping wonton gurih, ayam suwir yang lembut dan berbumbu, kripik renyah, serta chili oil spesial racikan kami yang bisa kamu pilih dalam dua varian rasa: manis menggoda atau asin gurih."
+            />
+    </LinearLayout>
+</ScrollView>
